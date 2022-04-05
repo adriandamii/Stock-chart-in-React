@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+
+input {
+  margin-right: 155px;
+  align-content: center;
+  width: 200px;
+  height: 16px;
+}
+
+button {
+  border: 1px solid grey;
+  background-color: rgb(169, 179, 189);
+  margin-top:5px;
+  width: 120px;
+  height: 24px;
+}
+button:active {
+  background-color: rgb(135, 144, 151);
+  width: 115px;
+  height: 23px;
+  margin-bottom: 1px;
+}
+
+span {
+  margin-right: 10px;
+}
+
+#error {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
